@@ -1,0 +1,1 @@
+{"totalGoldAmount":17,"doubleJump":{"upgradeLevel":0},"chargeSpeed":{"upgradeLevel":0},"jumpSpeed":{"upgradeLevel":0},"ownedGlasses":[7,1,3,2],"selectedGlasses":0,"ownedHats":[7,6,1,3,4],"selectedHat":4,"unlockedLevels":[1,2,3,4]}
